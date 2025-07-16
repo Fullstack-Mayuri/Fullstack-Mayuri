@@ -1,4 +1,4 @@
-![logo](https://github.com/Fullstack-Abhi/Fullstack-Mayuri/blob/main/Banner.png)
+![logo](https://github.com/Fullstack-Mayuri/Fullstack-Mayuri/blob/main/Banner.png)
 
 <h1 align="center">Hi 👋, I'm Mayuri Marnholkar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>

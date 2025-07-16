@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mayuri Marnholkar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*hUCcM_W-aBjc1mZG">
+<img align="right" alt="coding" width="250" height="300" src="https://challenges.reply.com/content/230603d4-4cff-7cc9-508f-a2def223ef45/hack-the-challenge-v18.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fullstack-mayuri&label=Profile%20views&color=0e75b6&style=flat" alt="fullstack-mayuri" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Java Full-Stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Fullstack-Mayuri/Fullstack-Mayuri](https://github.com/Fullstack-Mayuri/Fullstack-Mayuri)
+- 👨‍💻 All of my projects are available at https://github.com/Fullstack-Mayuri
 
 - 💬 Ask me about **java,spring,springboot,react**
 
